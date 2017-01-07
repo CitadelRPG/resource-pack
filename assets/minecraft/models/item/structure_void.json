@@ -1,0 +1,21 @@
+{
+"textures": {
+    "texture": "gui/container/slot"
+},
+"elements": [ 
+{
+    "from": [ 0, 15.9375, 0 ],
+    "to": [ 16, 16, 16 ],
+    "faces": {
+        "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+    }
+}
+],
+"display": {
+    "gui": {
+        "rotation": [ 90, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 1.1, 1.1, 1.1 ]
+    }
+}
+}

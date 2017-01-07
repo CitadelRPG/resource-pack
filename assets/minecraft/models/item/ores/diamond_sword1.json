@@ -1,0 +1,17 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blocks/custOre1",
+        "down": "blocks/custOre1",
+        "up": "blocks/custOre1",
+        "north": "blocks/custOre1",
+        "east": "blocks/custOre1",
+        "south": "blocks/custOre1",
+        "west": "blocks/custOre1"
+    }, "display": {
+        "head": {
+            "translation": [0, -30.42, 0],
+            "scale": [1.601,1.601,1.601]
+        }
+    }
+}

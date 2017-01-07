@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/carrot_on_a_stick"
+    },
+    "overrides": [
+		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/wands/basic"},
+		{ "predicate": {"damaged": 0, "damage": 0.04}, "model": "item/wands/fire"},
+		{ "predicate": {"damaged": 0, "damage": 0.08}, "model": "item/wands/dark"}
+	]
+}

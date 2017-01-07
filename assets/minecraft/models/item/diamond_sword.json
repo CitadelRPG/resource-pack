@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/diamond_sword"
+    },
+	"overrides": [
+		{ "predicate": { "damage": 0.0005}, "model": "item/ores/diamond_sword1"}	
+	]
+}

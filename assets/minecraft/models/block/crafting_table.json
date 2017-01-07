@@ -1,0 +1,21 @@
+{
+	"__comment": "Designed by Reduxredstone with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"texture": "items/tests/test_cube"
+	},
+	"elements": [
+		{
+			"__comment": "Voxels-99CCFF",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 15.24, 4.24, 15.76, 4.76 ], "texture": "#texture" },
+				"up": { "uv": [ 15.24, 4.24, 15.76, 4.76 ], "texture": "#texture" },
+				"north": { "uv": [ 15.24, 4.24, 15.76, 4.76 ], "texture": "#texture" },
+				"south": { "uv": [ 15.24, 4.24, 15.76, 4.76 ], "texture": "#texture" },
+				"west": { "uv": [ 15.24, 4.24, 15.76, 4.76 ], "texture": "#texture" },
+				"east": { "uv": [ 15.24, 4.24, 15.76, 4.76 ], "texture": "#texture" }
+			}
+		}
+	]
+}
