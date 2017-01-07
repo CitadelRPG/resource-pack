@@ -1,0 +1,254 @@
+ ▄▄▄▄ ▓██   ██▓    ██▀███   ▄▄▄    ██▒   █▓▓█████  ███▄    █  ███▄ ▄███▓ ▄████▄  
+▓█████▄▒██  ██▒   ▓██ ▒ ██▒▒████▄ ▓██░   █▒▓█   ▀  ██ ▀█   █ ▓██▒▀█▀ ██▒▒██▀ ▀█  
+▒██▒ ▄██▒██ ██░   ▓██ ░▄█ ▒▒██  ▀█▄▓██  █▒░▒███   ▓██  ▀█ ██▒▓██    ▓██░▒▓█    ▄ 
+▒██░█▀  ░ ▐██▓░   ▒██▀▀█▄  ░██▄▄▄▄██▒██ █░░▒▓█  ▄ ▓██▒  ▐▌██▒▒██    ▒██ ▒▓▓▄ ▄██▒
+░▓█  ▀█▓░ ██▒▓░   ░██▓ ▒██▒ ▓█   ▓██▒▒▀█░  ░▒████▒▒██░   ▓██░▒██▒   ░██▒▒ ▓███▀ ░
+░▒▓███▀▒ ██▒▒▒    ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░ ▐░  ░░ ▒░ ░░ ▒░   ▒ ▒ ░ ▒░   ░  ░░ ░▒ ▒  ░
+▒░▒   ░▓██ ░▒░      ░▒ ░ ▒░  ▒   ▒▒ ░░ ░░   ░ ░  ░░ ░░   ░ ▒░░  ░      ░  ░  ▒   
+ ░    ░▒ ▒ ░░       ░░   ░   ░   ▒     ░░     ░      ░   ░ ░ ░      ░   ░        
+ ░     ░ ░           ░           ░  ░   ░     ░  ░         ░        ░   ░ ░      
+      ░░ ░                             ░                                ░        
+	  
+			  ####
+			  ####
+			  ####
+			#########
+             ######
+              ####
+               ##
+			   
+			   
+#######################################
+### For Items & Blocks Scroll down ####
+#######################################
+
+
+               ##
+              ####
+             ######
+			#########
+			  ####
+			  ####
+			  ####
+			  
+### Custom Chat ####
+options.chat.visibility=Chat
+options.chat.visibility.full=Full Chat
+options.chat.visibility.system=§cReading Only
+options.chat.visibility.hidden=Disabled
+
+chat.type.text=§7➲ %s §8➠ %s
+chat.type.emote=§7➲ %s §8➠ %s
+chat.type.announcement=§4⚠ %s §c➠ %s
+
+multiplayer.player.joined=§a⚠ %s §3joined the game
+multiplayer.player.joined.renamed=§a⚠ %s §9(formerly known as %s) §3joined the game
+multiplayer.player.left=§c⚠ %s §3left the game
+
+commands.message.display.outgoing=§6➢ To %s §e➠ %s
+commands.message.display.incoming=§c➢ From %s §c➠ %s
+
+### Unicode Source ###
+ # (Attention) ⚠
+ # (Heavy Circled Arrow) ➲ 
+ # (Awesome Arrow) ➢
+ # (Awesome Fade Arrow) ➠
+
+###
+### Custom Sound Sliders ###
+###
+
+soundCategory.music=§e Game Music
+options.sounds.title=Music & Sound Options §c(Custom Game Music requires additional resource pack)
+ 
+### Language Stuff ####
+
+options.languageWarning=§7Current Supported Languages: §eEnglish
+options.forceUnicodeFont=Force Ugly Font
+
+### Enchanting Stuff ### 
+
+enchantment.level.1=§eI
+enchantment.level.2=§eII
+enchantment.level.3=§eIII
+enchantment.level.4=§eIV
+enchantment.level.5=§eV
+enchantment.level.6=§eVI
+enchantment.level.7=§eVII
+enchantment.level.8=§eVIII
+enchantment.level.9=§eIX
+enchantment.level.10=§eX 
+## Other Game Output ####
+menu.shareToLan=§c§lcitadel.server.ip
+
+commands.debug.start=§4§lWHO THE FUCK USES THIS COMMAND?!
+screenshot.success=§9⚠ §bSaved screenshot as %s
+
+menu.quit=Quit Game
+menu.returnToMenu=§4Leave §cCitadel
+menu.disconnect=§4Leave §cCitadel
+menu.returnToGame=Back to the Server
+
+gui.achievements=Vanilla RPG Server
+gui.stats=Minecraft 1.9
+
+menu.game=Game Menu
+
+deathScreen.respawn=Respawn
+deathScreen.deleteWorld=Delete world
+deathScreen.titleScreen=Ragequit
+deathScreen.score=Score
+deathScreen.title.hardcore=Game over!
+deathScreen.hardcoreInfo=You cannot respawn in hardcore mode!
+deathScreen.title=You died!
+deathScreen.leaveServer=Get me out of here!
+deathScreen.quit.confirm=Ragequitting is for noobs, m8.
+
+### Custom Error Messages ###
+
+commands.generic.notFound=§4⚠ §7Try §c/trigger help set 1§7 for a list of commands
+commands.generic.permission=§4⚠ §7Try §c/trigger help set 1§7 for a list of commands
+commands.generic.usage=§4⚠ ERROR §8➠ %s
+commands.message.usage=/msg <player> <private message ...>
+commands.message.sameTarget=§3Forever alone §b:(
+
+commands.trigger.usage=/trigger <command> <add|set> <value>
+commands.trigger.invalidObjective=§4⚠ §7Invalid command name §c%s
+commands.trigger.invalidMode=Invalid trigger mode %s
+commands.trigger.disabled=§4⚠ §7You have no permissions for §c%s
+commands.trigger.invalidPlayer=Only players can use the /trigger command
+commands.trigger.success=§2⚠ §7Executed command §a%s §8(%s %s§8) §7successfully!
+
+### Custom Help Menu ###
+
+commands.help.header=§7--- §eShowing §ehelp §epage §e%d §eof §e%d §e(/help <page>) §7---§e §3Use §b/trigger help set 1 §3to §3see §3the §3Server §3commands!
+commands.help.footer=§9Tip: §3Use §b/trigger help set 1 §3to §3see §3the §3Server §3commands!
+
+commands.achievement.usage=For command help, use /trigger Help set #
+commands.blockdata.usage=For command help, use /trigger Help set #
+commands.clone.usage=For command help, use /trigger Help set #
+commands.clear.usage=For command help, use /trigger Help set #
+commands.debug.usage=For command help, use /trigger Help set #
+commands.defaultgamemode.usage=For command help, use /trigger Help set #
+commands.difficulty.usage=For command help, use /trigger Help set #
+
+commands.effect.usage=For command help, use /trigger Help set #
+commands.enchant.usage=For command help, use /trigger Help set #
+commands.entitydata.usage=For command help, use /trigger Help set #
+commands.execute.usage=For command help, use /trigger Help set #
+commands.fill.usage=For command help, use /trigger Help set #
+commands.gamemode.usage=For command help, use /trigger Help set #
+commands.gamerule.usage=For command help, use /trigger Help set #
+
+commands.give.usage=For command help, use /trigger Help set #
+commands.help.usage=For command help, use /trigger Help set #
+commands.kill.usage=For command help, use /trigger Help set #
+commands.me.usage=For command help, use /trigger Help set #
+commands.particle.usage=For command help, use /trigger Help set #
+commands.playsound.usage=For command help, use /trigger Help set #
+commands.publish.usage=For command help, use /trigger Help set #
+
+commands.replaceitem.usage=For command help, use /trigger Help set #
+commands.say.usage=For command help, use /trigger Help set #
+commands.scoreboard.usage=For command help, use /trigger Help set #
+commands.seed.usage=For command help, use /trigger Help set #
+commands.setblock.usage=For command help, use /trigger Help set #
+commands.setworldspawn.usage=For command help, use /trigger Help set #
+commands.spawnpoint.usage=For command help, use /trigger Help set #
+
+commands.spreadplayers.usage=For command help, use /trigger Help set #
+commands.stats.usage=For command help, use /trigger Help set #
+commands.stopsound.usage=For command help, use /trigger Help set #
+commands.summon.usage=For command help, use /trigger Help set #
+commands.teleport.usage=For command help, use /trigger Help set #
+commands.msg.usage=For command help, use /trigger Help set #
+commands.tellraw.usage=For command help, use /trigger Help set #
+
+commands.testfor.usage=For command help, use /trigger Help set #
+commands.testforblock.usage=For command help, use /trigger Help set #
+commands.testforblocks.usage=For command help, use /trigger Help set #
+commands.time.usage=For command help, use /trigger Help set #
+commands.title.usage=For command help, use /trigger Help set #
+commands.toggledownfall.usage=For command help, use /trigger Help set #
+commands.tp.usage=For command help, use /trigger Help set #
+
+commands.trigger.usage=For command help, use /trigger Help set #
+commands.weather.usage=For command help, use /trigger Help set #
+commands.worldborder.usage=For command help, use /trigger Help set #
+commands.xp.usage=For command help, use /trigger Help set #
+
+### Command Block Edit ###
+
+advMode.setCommand=Set Console Command for Block
+advMode.setCommand.success=§aCommand set: %s
+advMode.command=Console Command
+advMode.nearestPlayer=§a@§bp §7= Nearest player §a@§cr §7= Random player §a@§da §7= All players 
+advMode.randomPlayer=§a@§ee §7= All entities §a@§ee§7[c=1] §7= Nearest §a@§ee§7[c=-1] = Furthest
+advMode.allPlayers=§aPlayer Only Tags: §7[team,name,l,lm,m]
+advMode.allEntities=§aTags: §7[x,y,z,r,dx,dy,dz,rym,ry,rxm,rx,c,score_x,score_x_min,tag]
+advMode.previousOutput=Citadel Redstone assistance (Originally from BitByte Resource Pack)
+
+### Custom Death Messages ####
+
+
+
+### Custom Blocks ###
+
+### Custom Items ###
+
+### Custom GUI ###
+
+gui.done=§aDone
+gui.cancel=§4Cancel
+gui.back=§7Back
+gui.toTitle=Back to title screen
+gui.toMenu=Back to server list
+gui.up=Up
+gui.down=Down
+gui.yes=§aYes
+gui.no=§cNo
+gui.none=§4None
+gui.all=§aAll
+
+### ADVANCED INFORMARTION ###
+
+
+############
+### FOOD ###
+############
+
+item.apple.name=Apple §e(+2.0)
+item.mushroomStew.name=Mushroom Stew §e(+3.0)
+item.bread.name=Bread §e(+2.5)
+item.porkchopRaw.name=Raw Porkchop §e(+1.5)
+item.porkchopCooked.name=Cooked Porkchop §e(+4.0)
+item.chickenRaw.name=Raw Chicken §e(+1.0)
+item.chickenCooked.name=Cooked Chicken §e(+3.0)
+item.muttonRaw.name=Raw Mutton §e(+1.0)
+item.muttonCooked.name=Cooked Mutton §e(+3.0)
+item.rabbitRaw.name=Raw Rabbit §e(1.0)
+item.rabbitCooked.name=Cooked Rabbit §e(+2.5)
+item.rabbitStew.name=Rabbit Stew §e(+5.0)
+item.beefRaw.name=Raw Beef §e(+1.5)
+item.beefCooked.name=Steak §e(+4.0)
+item.appleGold.name=Golden Apple §e(+2.0)
+item.fish.cod.raw.name=Raw Fish §e(1.0)
+item.fish.salmon.raw.name=Raw Salmon §e(+1.0)
+item.fish.pufferfish.raw.name=Pufferfish §e(+0.5)
+item.fish.clownfish.raw.name=Clownfish §e(+0.5)
+item.fish.cod.cooked.name=Cooked Fish §e(+2.5)
+item.fish.salmon.cooked.name=Cooked Salmon §e(+3.0)
+item.cake.name=Cake §e(+1.0 x 7)
+item.cookie.name=Cookie §e(+1.0)
+item.melon.name=Melon §e(+1.0)
+item.rottenFlesh.name=Rotten Flesh §e(+2.0)
+item.spiderEye.name=Spider Eye §e(+1.0)
+item.carrots.name=Carrot §e(+1.5)
+item.carrotGolden.name=Golden Carrot §e(+3.0)
+item.potato.name=Potato §e(+0.5)
+item.potatoBaked.name=Baked Potato §e(+2.5)
+item.potatoPoisonous.name=Poisonous Potato §e(+1.0)
+item.pumpkinPie.name=Pumpkin Pie §e(+4.0)
+item.beetroot.name=Beetroot §e(+0.5)
+item.beetroot_soup.name=Beetroot Soup §e(+3.0)
+item.chorusFruit.name=Chorus Fruit §e(+2.0)
